@@ -39,7 +39,7 @@
       "label": "SAS",
       "link": "",
       "active": true,
-      "moved": 0
+      "moved": -1
     },
     {
       "quadrant": 0,
@@ -47,7 +47,7 @@
       "label": "C#",
       "link": "",
       "active": true,
-      "moved": 0
+      "moved": 2
     },
     {
       "quadrant": 0,
@@ -55,7 +55,7 @@
       "label": "Git",
       "link": "https://git-scm.com/",
       "active": true,
-      "moved": 0
+      "moved": 1
     },
     {
       "quadrant": 0,
@@ -66,12 +66,20 @@
       "moved": 0
     },
     {
-      "quadrant": 1,
+      "quadrant": 0,
       "ring": 1,
-      "label": "1-1-moved-1",
+      "label": "Tensor Flow",
       "link": "",
       "active": true,
       "moved": 1
+    },
+    {
+      "quadrant": 0,
+      "ring": 2,
+      "label": "Scikit-learn",
+      "link": "",
+      "active": true,
+      "moved": 2
     },
     {
       "quadrant": 1,
@@ -84,52 +92,24 @@
     {
       "quadrant": 1,
       "ring": 1,
-      "label": "Open Policy Agent",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 1,
-      "ring": 0,
-      "label": "Tableau",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 1,
-      "ring": 0,
-      "label": "Skipper",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 1,
-      "ring": 2,
-      "label": "Slurm",
+      "label": "Azure - Web App",
       "active": true,
       "moved": 0
     },
     {
       "quadrant": 1,
       "ring": 1,
-      "label": "WebAssembly",
+      "label": "Tableau",
       "active": true,
-      "moved": 0
+      "moved": 1
     },
     {
       "quadrant": 1,
-      "ring": 0,
-      "label": "ZMON",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 2,
       "ring": 2,
-      "label": "2-2-moved-2",
+      "label": "Qlik",
       "link": "",
       "active": true,
-      "moved": 2
+      "moved": -1
     },
     {
       "quadrant": 3,
