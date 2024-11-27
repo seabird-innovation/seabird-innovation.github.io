@@ -21,7 +21,7 @@
       "quadrant": 0,
       "ring": 0,
       "label": "SQL",
-      "link": "https://engineering.zalando.com/tags/rust.html",
+      "link": "",
       "active": true,
       "moved": 0
     },
@@ -29,7 +29,15 @@
       "quadrant": 0,
       "ring": 1,
       "label": "VBA",
-      "link": "https://engineering.zalando.com/tags/scala.html",
+      "link": "",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 1,
+      "label": "SAS",
+      "link": "",
       "active": true,
       "moved": 0
     },
@@ -37,7 +45,7 @@
       "quadrant": 0,
       "ring": 2,
       "label": "C#",
-      "link": "https://engineering.zalando.com/tags/swift.html",
+      "link": "",
       "active": true,
       "moved": 0
     },
@@ -45,7 +53,15 @@
       "quadrant": 0,
       "ring": 2,
       "label": "Git",
-      "link": "https://engineering.zalando.com/tags/typescript.html",
+      "link": "https://git-scm.com/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 0,
+      "label": "PySpark",
+      "link": "",
       "active": true,
       "moved": 0
     },
@@ -143,7 +159,7 @@
       "quadrant": 3,
       "ring": 1,
       "label": "Flink",
-      "link": "https://engineering.zalando.com/tags/apache-flink.html",
+      "link": "",
       "active": true,
       "moved": 0
     },
@@ -151,13 +167,6 @@
       "quadrant": 3,
       "ring": 1,
       "label": "Google BigQuery",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 3,
-      "ring": 1,
-      "label": "Presto",
       "active": true,
       "moved": 0
     },
@@ -186,8 +195,8 @@
     {
       "quadrant": 2,
       "ring": 2,
-      "label": "Valkey",
-      "link": "https://engineering.zalando.com/tags/redis.html",
+      "label": "Microsoft Azure",
+      "link": "",
       "active": true,
       "moved": 2
     },
