@@ -4,7 +4,7 @@
     {
       "quadrant": 0,
       "ring": 0,
-      "label": "0-0",
+      "label": "0-0-moved-0",
       "link": "",
       "active": true,
       "moved": 0
@@ -12,26 +12,26 @@
     {
       "quadrant": 1,
       "ring": 1,
-      "label": "1-1",
+      "label": "1-1-moved-1",
       "link": "",
       "active": true,
-      "moved": 0
+      "moved": 1
     },
     {
       "quadrant": 2,
       "ring": 2,
-      "label": "2-2",
+      "label": "2-2-moved-2",
       "link": "",
       "active": true,
-      "moved": 0
+      "moved": 2
     },
     {
       "quadrant": 3,
       "ring": 3,
-      "label": "3-3",
+      "label": "3-3-moved-3",
       "link": "",
       "active": true,
-      "moved": 0
+      "moved": 3
     },
     {
       "quadrant": 3,
