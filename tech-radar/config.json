@@ -4,8 +4,48 @@
     {
       "quadrant": 0,
       "ring": 0,
-      "label": "0-0-moved-0",
+      "label": "Python",
       "link": "",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 1,
+      "label": "R",
+      "link":"",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 0,
+      "label": "SQL",
+      "link": "https://engineering.zalando.com/tags/rust.html",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 1,
+      "label": "VBA",
+      "link": "https://engineering.zalando.com/tags/scala.html",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 2,
+      "label": "C#",
+      "link": "https://engineering.zalando.com/tags/swift.html",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 2,
+      "label": "Git",
+      "link": "https://engineering.zalando.com/tags/typescript.html",
       "active": true,
       "moved": 0
     },
@@ -32,6 +72,14 @@
       "link": "",
       "active": true,
       "moved": 3
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
+      "label": "Knime",
+      "link": "https://fr.cloudera.com/",
+      "active": true,
+      "moved": 0
     },
     {
       "quadrant": 3,
@@ -66,7 +114,7 @@
     {
       "quadrant": 3,
       "ring": 0,
-      "label": "Spark",
+      "label": "PySpark",
       "link": "https://engineering.zalando.com/tags/apache-spark.html",
       "active": true,
       "moved": 0
@@ -149,46 +197,7 @@
       "label": "ZMON",
       "active": true,
       "moved": 0
-    },
-    {
-      "quadrant": 0,
-      "ring": 2,
-      "label": "R",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 0,
-      "ring": 3,
-      "label": "Rust",
-      "link": "https://engineering.zalando.com/tags/rust.html",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 0,
-      "ring": 0,
-      "label": "Scala",
-      "link": "https://engineering.zalando.com/tags/scala.html",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 0,
-      "ring": 0,
-      "label": "Swift",
-      "link": "https://engineering.zalando.com/tags/swift.html",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 0,
-      "ring": 0,
-      "label": "TypeScript",
-      "link": "https://engineering.zalando.com/tags/typescript.html",
-      "active": true,
-      "moved": 0
-    },
+    }
     {
       "quadrant": 3,
       "ring": 0,
