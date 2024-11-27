@@ -31,7 +31,7 @@
       "label": "VBA",
       "link": "",
       "active": true,
-      "moved": 0
+      "moved": -1
     },
     {
       "quadrant": 2,
@@ -53,6 +53,14 @@
       "quadrant": 2,
       "ring": 1,
       "label": "Git",
+      "link": "https://git-scm.com/",
+      "active": true,
+      "moved": 1
+    },
+    {
+      "quadrant": 2,
+      "ring": 1,
+      "label": "Github",
       "link": "https://git-scm.com/",
       "active": true,
       "moved": 1
@@ -121,6 +129,31 @@
     },
     {
       "quadrant": 3,
+      "ring": 3,
+      "label": "Docker",
+      "link": "",
+      "active": true,
+      "moved": 1
+    },
+    {
+      "quadrant": 3,
+      "ring": 3,
+      "label": "Kubernetes",
+      "link": "",
+      "active": true,
+      "moved": 1
+    },
+    {
+      "quadrant": 3,
+      "ring": 3,
+      "label": "Apache Airflow",
+      "link": "",
+      "active": true,
+      "moved": 1
+    },
+    
+    {
+      "quadrant": 3,
       "ring": 0,
       "label": "Dataiku",
       "link": "",
@@ -182,6 +215,27 @@
       "moved": 2
     },
     {
+      "quadrant": 2,
+      "ring": 2,
+      "label": "Hugging face",
+      "active": true,
+      "moved": 2
+    },
+    {
+      "quadrant": 2,
+      "ring": 2,
+      "label": "Open AI",
+      "active": true,
+      "moved": 2
+    },
+    {
+      "quadrant": 2,
+      "ring": 2,
+      "label": "Mistral AI",
+      "active": true,
+      "moved": 2
+    },
+    {
       "quadrant": 3,
       "ring": 3,
       "label": "dbt",
@@ -195,14 +249,6 @@
       "link": "",
       "active": true,
       "moved": 2
-    },
-    {
-      "quadrant": 3,
-      "ring": 1,
-      "label": "RabbitMQ",
-      "link": "https://engineering.zalando.com/tags/rabbitmq.html",
-      "active": true,
-      "moved": 0
     }
   ]
 }
