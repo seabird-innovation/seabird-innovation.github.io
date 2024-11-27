@@ -145,8 +145,16 @@
     },
     {
       "quadrant": 3,
-      "ring": 1,
-      "label": "Cloudera",
+      "ring": 3,
+      "label": "Access",
+      "link": "",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 3,
+      "label": "SAP - Business Object",
       "link": "",
       "active": true,
       "moved": 0
@@ -154,23 +162,31 @@
     {
       "quadrant": 3,
       "ring": 1,
-      "label": "Google BigQuery",
+      "label": "MySQL",
+      "link": "",
       "active": true,
       "moved": 0
     },
     {
       "quadrant": 3,
       "ring": 2,
-      "label": "Streamlit",
+      "label": "Google BigQuery",
       "active": true,
       "moved": 0
     },
     {
+      "quadrant": 2,
+      "ring": 2,
+      "label": "Streamlit",
+      "active": true,
+      "moved": 2
+    },
+    {
       "quadrant": 3,
-      "ring": 1,
+      "ring": 3,
       "label": "dbt",
       "active": true,
-      "moved": 0
+      "moved": 2
     },
     {
       "quadrant": 2,
@@ -179,29 +195,6 @@
       "link": "",
       "active": true,
       "moved": 2
-    },
-    {
-      "quadrant": 3,
-      "ring": 0,
-      "label": "AWS Kinesis",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 3,
-      "ring": 0,
-      "label": "Kafka",
-      "link": "https://engineering.zalando.com/tags/apache-kafka.html",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 3,
-      "ring": 0,
-      "label": "Nakadi",
-      "link": "https://nakadi.io",
-      "active": true,
-      "moved": 0
     },
     {
       "quadrant": 3,
