@@ -2,6 +2,38 @@
   "date": "2024.11",
   "entries": [
     {
+      "quadrant": 0,
+      "ring": 0,
+      "label": "0-0",
+      "link": "",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 1,
+      "label": "1-1",
+      "link": "",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 2,
+      "label": "2-2",
+      "link": "",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 3,
+      "label": "3-3",
+      "link": "",
+      "active": true,
+      "moved": 0
+    },
+    {
       "quadrant": 3,
       "ring": 1,
       "label": "Cloudera",
