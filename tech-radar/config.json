@@ -4,6 +4,14 @@
     {
       "quadrant": 3,
       "ring": 1,
+      "label": "Cloudera",
+      "link": "https://fr.cloudera.com/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 1,
       "label": "Flink",
       "link": "https://engineering.zalando.com/tags/apache-flink.html",
       "active": true,
