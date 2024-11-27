@@ -2,7 +2,7 @@
   "date": "2024.11",
   "entries": [
     {
-      "quadrant": 0,
+      "quadrant": 2,
       "ring": 0,
       "label": "Python",
       "link": "",
@@ -10,7 +10,7 @@
       "moved": 0
     },
     {
-      "quadrant": 0,
+      "quadrant": 2,
       "ring": 1,
       "label": "R",
       "link":"",
@@ -18,7 +18,7 @@
       "moved": 0
     },
     {
-      "quadrant": 0,
+      "quadrant": 2,
       "ring": 0,
       "label": "SQL",
       "link": "",
@@ -26,15 +26,15 @@
       "moved": 0
     },
     {
-      "quadrant": 0,
-      "ring": 1,
+      "quadrant": 2,
+      "ring": 2,
       "label": "VBA",
       "link": "",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 0,
+      "quadrant": 2,
       "ring": 1,
       "label": "SAS",
       "link": "",
@@ -42,7 +42,7 @@
       "moved": -1
     },
     {
-      "quadrant": 0,
+      "quadrant": 2,
       "ring": 2,
       "label": "C#",
       "link": "",
@@ -50,15 +50,15 @@
       "moved": 2
     },
     {
-      "quadrant": 0,
-      "ring": 2,
+      "quadrant": 2,
+      "ring": 1,
       "label": "Git",
       "link": "https://git-scm.com/",
       "active": true,
       "moved": 1
     },
     {
-      "quadrant": 0,
+      "quadrant": 2,
       "ring": 0,
       "label": "PySpark",
       "link": "",
@@ -85,7 +85,7 @@
       "quadrant": 1,
       "ring": 0,
       "label": "Power BI",
-      "link": "https://engineering.zalando.com/tags/kubernetes.html",
+      "link": "",
       "active": true,
       "moved": 0
     },
@@ -113,17 +113,33 @@
     },
     {
       "quadrant": 3,
-      "ring": 3,
-      "label": "3-3-moved-3",
+      "ring": 0,
+      "label": "Knime",
       "link": "",
       "active": true,
-      "moved": 3
+      "moved": 0
     },
     {
       "quadrant": 3,
       "ring": 0,
-      "label": "Knime",
-      "link": "https://fr.cloudera.com/",
+      "label": "Dataiku",
+      "link": "",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 1,
+      "label": "Alteryx",
+      "link": "",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 1,
+      "label": "Databricks",
+      "link": "",
       "active": true,
       "moved": 0
     },
@@ -131,14 +147,6 @@
       "quadrant": 3,
       "ring": 1,
       "label": "Cloudera",
-      "link": "https://fr.cloudera.com/",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 3,
-      "ring": 1,
-      "label": "Flink",
       "link": "",
       "active": true,
       "moved": 0
@@ -147,14 +155,6 @@
       "quadrant": 3,
       "ring": 1,
       "label": "Google BigQuery",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 3,
-      "ring": 0,
-      "label": "PySpark",
-      "link": "https://engineering.zalando.com/tags/apache-spark.html",
       "active": true,
       "moved": 0
     },
@@ -181,30 +181,9 @@
       "moved": 2
     },
     {
-      "quadrant": 2,
-      "ring": 3,
-      "label": "ZooKeeper",
-      "active": true,
-      "moved": 0
-    },
-    {
       "quadrant": 3,
       "ring": 0,
       "label": "AWS Kinesis",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 3,
-      "ring": 0,
-      "label": "AWS SNS",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 3,
-      "ring": 0,
-      "label": "AWS SQS",
       "active": true,
       "moved": 0
     },
