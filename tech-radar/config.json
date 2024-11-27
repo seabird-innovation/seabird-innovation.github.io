@@ -103,7 +103,7 @@
     {
       "quadrant": 1,
       "ring": 0,
-      "label": "Kubernetes",
+      "label": "Power BI",
       "link": "https://engineering.zalando.com/tags/kubernetes.html",
       "active": true,
       "moved": 0
@@ -118,7 +118,7 @@
     {
       "quadrant": 1,
       "ring": 0,
-      "label": "OpenTelemetry",
+      "label": "Tableau",
       "active": true,
       "moved": 0
     },
