@@ -208,28 +208,28 @@
       "moved": 0
     },
     {
-      "quadrant": 2,
+      "quadrant": 0,
       "ring": 2,
       "label": "Streamlit",
       "active": true,
       "moved": 2
     },
     {
-      "quadrant": 2,
+      "quadrant": 0,
       "ring": 2,
       "label": "Hugging face",
       "active": true,
       "moved": 2
     },
     {
-      "quadrant": 2,
+      "quadrant": 0,
       "ring": 2,
       "label": "Open AI",
       "active": true,
       "moved": 2
     },
     {
-      "quadrant": 2,
+      "quadrant": 0,
       "ring": 2,
       "label": "Mistral AI",
       "active": true,
