@@ -87,6 +87,10 @@ const config: Config = {
           label: 'Tutorial',
         },
         {
+          label: 'Platform GenAI',
+          href: 'genai'
+        },
+        {
           label: 'Tech Radar',
           href: 'pathname:///tech-radar.html'
         },
