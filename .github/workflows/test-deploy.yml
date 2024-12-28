@@ -24,6 +24,7 @@ jobs:
           cache: yarn
 
       - name: Install dependencies
+        working-directory: ./docs
         run: yarn install --frozen-lockfile
       - name: Test build website
         run: yarn build
