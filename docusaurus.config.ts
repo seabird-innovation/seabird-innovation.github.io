@@ -82,13 +82,9 @@ const config: Config = {
       items: [
         {
           type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
+          sidebarId: 'pagesSidebar',
           position: 'left',
-          label: 'Tutorial',
-        },
-        {
-          label: 'Platform GenAI',
-          href: 'genai'
+          label: 'Pages',
         },
         {
           label: 'Tech Radar',
