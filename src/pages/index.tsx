@@ -6,6 +6,8 @@ import HomepageFeatures from '@site/src/components/HomepageFeatures';
 import Heading from '@theme/Heading';
 
 import styles from './index.module.css';
+import {JSX} from 'react';
+import useBaseUrl from "@docusaurus/useBaseUrl";
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
@@ -16,12 +18,17 @@ function HomepageHeader() {
           {siteConfig.title}
         </Heading>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
+        {/*<div className={styles.buttons}>*/}
+        {/*  <Link*/}
+        {/*    className="button button--secondary button--lg"*/}
+        {/*    to="/docs/intro">*/}
+        {/*    Docusaurus Tutorial - 5min ⏱️*/}
+        {/*  </Link>*/}
+        {/*</div>*/}
         <div className={styles.buttons}>
-          <Link
-            className="button button--secondary button--lg"
-            to="/docs/intro">
-            Docusaurus Tutorial - 5min ⏱️
-          </Link>
+          <div >
+            <a className="button button--secondary button--lg" href={useBaseUrl('tech-radar.html')}>Tech Radar</a>
+          </div>
         </div>
       </div>
     </header>
@@ -34,9 +41,10 @@ export default function Home(): JSX.Element {
     <Layout
       title={`Hello from ${siteConfig.title}`}
       description="Description will go into a meta tag in <head />">
-      <HomepageHeader />
+      <HomepageHeader/>
       <main>
-        <HomepageFeatures />
+        {/*<HomepageFeatures/>*/}
+
       </main>
     </Layout>
   );
