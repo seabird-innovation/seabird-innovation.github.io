@@ -1,0 +1,55 @@
+/*extra css to customize material mkdocs theme*/
+
+:root {
+  --md-primary-fg-color:        #e41434;
+  --md-primary-fg-color--light: #e41434;
+  --md-primary-fg-color--dark:  #e41434;
+}
+
+/* Solid border */
+hr.solid {
+  border-top: 3px solid #bbb;
+}
+
+a.card{
+  text-decoration: none;
+  color: black;
+}
+
+.flex-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.flex-section {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  gap: 2em;
+}
+
+/* Responsive layout - makes a one column layout instead of a two-column layout */
+@media (max-width: 800px) {
+  .flex-section {
+    flex-direction: column;
+  }
+}
+
+.card {
+  /* Add shadows to create the "card" effect */
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+}
+
+/* On mouse-over, add a deeper shadow */
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+/* Add some padding inside the card container */
+.container {
+  padding: 1px 16px;
+  height: 300px;
+  width: 300px;
+}
