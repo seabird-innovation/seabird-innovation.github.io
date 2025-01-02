@@ -9,8 +9,12 @@ Seabird has developed several use cases that implements Generative AI, here are 
     <div class="card">
         <a class="card" href="https://chatbot.ai.seabird-innovation.com/?category=coface" target="_blank">
             <div class="container">
-                  <img src="/img/coface.png" alt="coface" width="300"/>
+                    <div style="display: flex; flex-direction: row;">
+                        <img src="/img/coface.png" alt="coface" width="150px" height="50px"/>
+                        <img src="/img/axa.png" alt="coface" width="60"/>
+                    </div>  
                 <h3>Analyste Financier</h3>
+                <p>Alimenté en données publiques</p>
             </div>
         </a>
     </div>
@@ -18,7 +22,7 @@ Seabird has developed several use cases that implements Generative AI, here are 
        <a class="card" href="https://chatbot.ai.seabird-innovation.com/?category=rh" target="_blank">
             <div class="container">
                   <img src="/img/seabird-logo.png" alt="sb" width="300"/>
-                <h3>RH</h3>
+                <h3>Assistant RH</h3>
                 <p>Recherche d'informations RH de l'intranet Seabird</p>
             </div>
         </a>
@@ -32,8 +36,8 @@ Seabird has developed several use cases that implements Generative AI, here are 
         <a class="card" href="">
             <div class="container">
                   <img src="/img/sas.png" alt="sas" width="300"/>
-                <h3>SAS</h3>
-                <p>conversion de programmes SAS vers Python</p>
+                <h3>Convertisseur code SAS</h3>
+                <p>Conversion de programmes SAS vers Python</p>
             </div>
         </a>
     </div>
@@ -41,8 +45,8 @@ Seabird has developed several use cases that implements Generative AI, here are 
        <a class="card" href="">
             <div class="container">
                   <img src="/img/seabird-logo.png" alt="sb" width="300"/>
-                <h3>RAO</h3>
-                <p>Réponses à appel d'offre</p>
+                <h3>Assistant RAO</h3>
+                <p>Basé sur connaissances Seabird</p>
             </div>
         </a>
     </div>
@@ -52,10 +56,11 @@ Seabird has developed several use cases that implements Generative AI, here are 
 
 <section class="flex-section">
     <div class="card">
-        <a class="card" href="">
+        <a class="card" href="https://chatbot.ai.seabird-innovation.com" target="_blank">
             <div class="container">
-                <h3>Extraction de données</h3>
-                <p>Extraction de données à partir de documents KiiD</p>
+                <img src="/img/data-kiid.png" alt="kiid" width="300"/>
+                <h3>Analyseur de données structurées</h3>
+                <p>Agent IA</p>
             </div>
         </a>
     </div>
@@ -63,8 +68,8 @@ Seabird has developed several use cases that implements Generative AI, here are 
        <a class="card" href="">
             <div class="container">
                   <img src="/img/dora.png" alt="dora" width="300"/>
-                <h3>DORA</h3>
-                <p>Recherche d'informations sur la règlementation DORA</p>
+                <h3>Extracteur de données DORA</h3>
+                <p>Evaluation de conformité contractuelle</p>
             </div>
         </a>
     </div>

@@ -49,9 +49,9 @@ a.card{
 
 /* Add some padding inside the card container */
 .container {
-  padding: 1px 16px;
+  padding: 10px 16px;
   height: 16em;
   width: 16em;
   min-width: 200px;
-  min-height: 200px;
+  min-height: 300px;
 }
